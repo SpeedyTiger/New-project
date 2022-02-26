@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "770417837957",
+    "project_id": "uniticsoft",
+    "storage_bucket": "uniticsoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770417837957:android:9c5409fceec6edbf17a6ec",
+        "android_client_info": {
+          "package_name": "com.Abdalhamid.my_flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770417837957-qvl6k8hobfohl131t49kqfqdvbbava8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Abdalhamid.my_flutterapp",
+            "certificate_hash": "2d985695fcfa64d5042072d24d45fe42b52b8500"
+          }
+        },
+        {
+          "client_id": "770417837957-mphvkjcdnjht6hoi94mj5aj06e7gjm3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArjgFR159FZpCf7NJfY8m4ETKXvmjgw7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770417837957-mphvkjcdnjht6hoi94mj5aj06e7gjm3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
